@@ -77,7 +77,7 @@ const excel = [
     "desCh": "你个没骨气的家伙",
     "desJp": "意気地なしめ",
     "titleCh": "别骂了别骂了",
-    "titleJp": "非人類的言語試聴"
+    "titleJp": "もっともっと"
   },
   {
     "file_name": "小东的阿巴阿巴1分洗脑 (1)",
